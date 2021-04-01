@@ -16,6 +16,7 @@
 Инструкия [тут](https://dementiy.github.io/assignments/cypher/)
 
 **Важно**: Не нужно делать ту часть задания, в которой нужно взаимодействовать с GIT. Не нужно проходить тесты, преподаватиель проверит сам.
+
 Информация: 
 - [шифр цезаря](https://baike.baidu.com/item/%E6%81%BA%E6%92%92%E5%AF%86%E7%A0%81/4905284?fromtitle=%E5%87%AF%E6%92%92%E5%AF%86%E7%A0%81&fromid=1336345&fr=aladdin)
 - [шифр Вижинера](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80_%D0%92%D0%B8%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B0)
