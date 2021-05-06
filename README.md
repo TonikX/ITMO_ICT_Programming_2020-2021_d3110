@@ -29,6 +29,15 @@
 Нужно показать код преподавателю и загрузить код в папку **students/d3110/Ваше_имя/lr1** этого репозитория. Шаблон названия пул реквеста "ИТМО ФСПО Номер_группы Практическая работа ФИО". Пример: "ИТМО ФСПО К3340 Практическая работа №1 Филимонов Филипп". Как делать пул реквест описано в разделе **Сдача работ**.
 
 # Задание 3
+Реализовать решатель Судоку.
+
+Инструкция [тут](https://dementiy.github.io/assignments/sudoku/)
+
+Информация:
+- [Как играть в судоку?](https://www.sudoku.name/index-cn.php)
+- [Это может вам помочь](https://www.jianshu.com/p/1b2ee6539d4b)
+- [и это](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%95%B0%E7%8B%AC%20python&fenlei=256&oq=%25E6%2595%25B0%25E7%258B%25AC%2520%25D0%25B7%25D0%25BD%25D0%25B5%25D1%2580%25D1%2589%25D1%2582&rsv_pq=f1b0c34b0003b6c7&rsv_t=65c1KHYd2cKLeNWxKTnma9JVMTGNLmUzryiuOqCJ3q0QEzuvkJgJtrXDGoQ&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_btype=t&inputT=1846&rsv_sug3=40&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1936)
+
 Баллы за прохождение: 15. При сдаче не в срок, студент получает 7 баллов.
 
 # Задание 4
